@@ -1,6 +1,10 @@
 # Non-Mirror
 Really follow the people you follow on Instagram!
 
+**For Requirements** 
+
+    pip install -r requirements.txt
+
 **How to use?**
 You must first train the software with the users you follow on Instagram.
 
