@@ -1,0 +1,6 @@
+beautifulsoup4
+opencv-python
+face_recognition
+selenium
+requests
+numpy
